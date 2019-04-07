@@ -76,7 +76,7 @@ function spotifyThisSong(userQuery){
       console.log(data.tracks.items[0].album.artists[0].name); 
       });
    
-//I had the spotify-this working and for some reason the code broke i cant figure it out//
+//I had the spotify-this working and for some reason the code broke i cant figure it out..
 
  
 
